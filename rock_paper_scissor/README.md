@@ -18,10 +18,16 @@ You'll be prompted to choose: 1 for Rock 2 for Paper 3 for Scissors
 The computer will randomly pick its move.
 The winner of each round is displayed, and scores are updated.
 After 5 rounds, the final scores are shown.
+
 Sample Example(with output): Welcome to Rock, Paper, Scissors! Let's play 5 games.
-
-Game 1: Choose your move:
-
-Rock
-Paper
-Scissors Enter your choice (1-3): 1 Player's move: rock Computer's move: scissors You win! Player score: 1 Computer score: 0 ...
+Game 1:
+Choose your move:
+1. Rock
+2. Paper
+3. Scissors
+Enter your choice (1-3): 1
+Player's move: rock
+Computer's move: scissors
+You win!
+Player score: 1
+Computer score: 0
